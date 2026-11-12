@@ -1,0 +1,6 @@
+{
+  "name": "GST Invoice by Afaq | EveryTool Free GST Invoice Generator",
+  "description": "Free professional GST invoice generator for India by Afaq on EveryTool. Create, preview, and download GST compliant tax invoices with automatic CGST, SGST, and IGST calculations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
